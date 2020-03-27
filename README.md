@@ -5,8 +5,8 @@ https://twitter.com/ashishrana08
 Encryption & Decryption Application Using Netbeans IDE, Apache and Mysql Database for User Authentication
 & Storing the encrypted file on Database
 ### login
-![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/Screenshot.png)
+![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/screenshot/Screenshot.png)
 ### Encrypt
-![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/Screenshot%20(1).png)
+![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/screenshot/Screenshot%20(1).png)
 ### Database
-![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/Screenshot(2).png)
+![](https://github.com/ashishrana080699/Encryption-decryption-Java-application/blob/master/screenshot/Screenshot(2).png)
